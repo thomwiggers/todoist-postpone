@@ -1,0 +1,14 @@
+language: python
+sudo: false
+
+python:
+  - "3.6"
+
+
+install:
+  - pip install tox-travis
+script: 
+  - tox
+
+
+#  vim: set ts=2 sw=2 tw=0 et :
