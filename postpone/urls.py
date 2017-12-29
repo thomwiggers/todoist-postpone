@@ -20,5 +20,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('accounts/', include('registration.backends.default.urls')),
     path('', include('interface.urls')),
-    path('todoist/', include('todoist.urls')),
+    path('todoist/', include('todoistapp.urls')),
 ]
