@@ -1,4 +1,4 @@
 Django==2.2.6
-todoist-python==8.0.0
+todoist-python==8.0.2
 django-bootstrap4==1.0.1
 django-registration-redux==2.6
