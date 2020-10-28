@@ -6,7 +6,7 @@ This project aims to provide a web service that will extend Todoists__ functiona
 
 __ Todoists Todoist
 
-As of yet this is unfinished.
+As of yet this is unfinished and been abandoned.
 
 This project is not affiliated with Todoist_ or Doist_.
 
